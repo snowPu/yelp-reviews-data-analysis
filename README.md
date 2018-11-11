@@ -1,2 +1,2 @@
 # yelp-reviews-data-analysis
-Praktikum WS 2017/18
+This is a part of Data Mining Praktikum WS 2018/19 at TUM.
