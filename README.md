@@ -16,8 +16,8 @@ More info on the Yelp dataset is here: https://www.yelp.com/dataset
 *Introducing the dataset*
 
 * Presentation Date: 31 Oct 18
-* Presentation file: https://github.com/bee2502/yelp-reviews-data-analysis/blob/master/Data%20Mining_Bee_Yelp.pdf
-
+* Presentation file: yelp-reviews-data-analysis/Data Mining_Bee_Yelp.pdf
+      
 **Week 1**
 
 *Start with EDA (Exploratory Data Analysis), i.e. prepare a detailed description in respect to: size, number and type of attributes, range, frequency, distribution, outliers, missing values*
