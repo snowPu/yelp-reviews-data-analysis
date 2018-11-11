@@ -16,7 +16,7 @@ More info on the Yelp dataset is here: https://www.yelp.com/dataset
 *Introducing the dataset*
 
 * Presentation Date: 31 Oct 18
-* Presentation file: File:DatasetIntro.pdf
+* Presentation file: https://github.com/bee2502/yelp-reviews-data-analysis/blob/master/Data%20Mining_Bee_Yelp.pdf
 
 **Week 1**
 
