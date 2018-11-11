@@ -1,5 +1,6 @@
 # yelp-reviews-data-analysis
 This is a part of Data Mining Praktikum WS 2018/19 at TUM.
+
 More info on the Yelp dataset is here: https://www.yelp.com/dataset
 
 = Group Members =
@@ -22,7 +23,9 @@ Start with EDA (Exploratory Data Analysis), i.e. prepare a detailed description 
 = Useful Links =
 
 Dataset Source URL: https://www.yelp.com/dataset 
+
 Size of dataset is around 3.6 GB compressed and 7.3 GB uncompressed excluding image data.
 
 Dataset Documentation by Yelp: https://www.yelp.com/dataset/documentation/main 
+
 Sample scripts for analysis: https://github.com/Yelp/dataset-examples 
