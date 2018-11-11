@@ -3,7 +3,7 @@ This is a part of Data Mining Praktikum WS 2018/19 at TUM.
 
 More info on the Yelp dataset is here: https://www.yelp.com/dataset
 
-= Group Members =
+** Group Members **
 * Bhagyashree (Bee)
 * Ankita Kinnerkar
 * Jieyi
@@ -12,12 +12,16 @@ More info on the Yelp dataset is here: https://www.yelp.com/dataset
 =Progress=
 
 == Week 0 ==
+
 Introducing the dataset
+
 * Presentation Date: 31 Oct 18
 * Presentation file: File:DatasetIntro.pdf
 
 == Week 1 ==
+
 Start with EDA (Exploratory Data Analysis), i.e. prepare a detailed description in respect to: size, number and type of attributes, range, frequency, distribution, outliers, missing values
+
 * Presentation Date: 14 Nov 18
 
 = Useful Links =
